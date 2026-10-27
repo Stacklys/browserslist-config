@@ -1,11 +1,7 @@
 {
   "name": "@stacklys/browserslist-config",
-  "description": "📦️ Browserslist configuration for web development projects",
-  "main": "index.js",
-  "files": [
-    "index.js"
-  ],
   "version": "1.0.0",
+  "description": "📦️ Browserslist configuration for web development projects",
   "keywords": [
     "browserslist",
     "browserslist-config"
@@ -18,5 +14,12 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Stacklys/browserslist-config.git"
+  },
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],  
+  "publishConfig": {
+    "access": "public"
   }
 }

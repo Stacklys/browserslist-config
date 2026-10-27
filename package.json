@@ -1,0 +1,22 @@
+{
+  "name": "@stacklys/browserslist-config",
+  "description": "📦️ Browserslist configuration for web development projects",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "version": "1.0.0",
+  "keywords": [
+    "browserslist",
+    "browserslist-config"
+  ],
+  "homepage": "https://github.com/Stacklys/browserslist-config#readme",
+  "bugs": {
+    "url": "https://github.com/Stacklys/browserslist-config/issues"
+  },
+  "author": "Luis Monsalve",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stacklys/browserslist-config.git"
+  }
+}
